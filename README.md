@@ -21,3 +21,5 @@ empty project with vite and typescript and tailwind
 8. Run `git commit -m "add template"
 
 9. Run `git push --set-upstream origin main`
+
+10. Run `npm install`
