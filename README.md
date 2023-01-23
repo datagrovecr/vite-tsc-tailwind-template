@@ -16,10 +16,6 @@ empty project with vite and typescript and tailwind
 
 6. Run `git remote add origin YOUR_REPO_PATH_HERE` for example `git remote add origin git@github.com:datagrovecr/vite-tsc-tailwind.git`
 
-7. Run `git add .`
+7. Run `git push --set-upstream origin main`
 
-8. Run `git commit -m "add template"
-
-9. Run `git push --set-upstream origin main`
-
-10. Run `npm install`
+8. Run `npm install`
