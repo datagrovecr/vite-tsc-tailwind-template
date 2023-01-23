@@ -14,7 +14,7 @@ empty project with vite and typescript and tailwind
 
 5. Run `git remote rm origin` to remove the origin 
 
-6. Run `git remote add origin YOUR_REPO_PATH_HERE` for example `git remote add origin git@github.com:datagrovecr/vite-tsc-tailwind.git`
+6. Run `git remote add origin YOUR_BLANK_REPO_PATH_FROM_STEP_1_HERE` for example `git remote add origin git@github.com:datagrovecr/vite-tsc-tailwind.git`
 
 7. Run `git push --set-upstream origin main`
 
